@@ -6,7 +6,7 @@ public class Math {
     }
 
     public int subtract(int a, int b) {
-        return a - b + 1 ; //coding fault
+        return a - b  ; //coding fault
     }
 
     public int multiply(int a, int b) {
